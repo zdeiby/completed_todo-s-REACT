@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/completed_todo-s-REACT%20/static/css/main.99baa026.css",
+    "main.js": "/completed_todo-s-REACT%20/static/js/main.2cadd256.js",
+    "index.html": "/completed_todo-s-REACT%20/index.html",
+    "main.99baa026.css.map": "/completed_todo-s-REACT%20/static/css/main.99baa026.css.map",
+    "main.2cadd256.js.map": "/completed_todo-s-REACT%20/static/js/main.2cadd256.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99baa026.css",
+    "static/js/main.2cadd256.js"
+  ]
+}
