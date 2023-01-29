@@ -12,11 +12,13 @@
     margin:24px 0 24px 24px;
     width: calc(100%-120px);
     font-size: 20px;
+  
 }
 
 .TodoItem-p--complete{
-    text-decoration: line-through  #61dafa;;
+    text-decoration: line-through    #61dafa;
     font-size: 20px;
+  
 }
 
 .Icon{
@@ -30,3 +32,10 @@
     font-weight: bold;
 }
 
+.Icon-check--active{
+    color: #61dafa;
+}
+
+.Icon-delete:hover{
+    color:red
+}
